@@ -16,7 +16,7 @@ var diamondS;
 var winImg;
 var minutes,seconds;
 
-const startingM = 3;
+const startingM = 2.3;
 var time = startingM*60;
 const countDownEl = document.getElementById("timer");
 
